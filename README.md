@@ -21,8 +21,7 @@ I'm a Transport Planning and Engineering graduate with a strong foundation in Au
 ## 📚 Projects
 ### 🚦 [Project Name]
 Description: Developed a comprehensive traffic signal plan using Linsig, which improved traffic flow by 20% in a busy urban area.
-[<img src="![convvvvv](https://github.com/user-attachments/assets/95af3977-6b23-43dc-8189-37fb9e](https://github.com/ravirdr/ravidr/blob/main/D2AP%20PICCCCCCC.png?raw=true)
-
+![Alt text]([images/example.png](https://github.com/ravirdr/ravidr/blob/efa291e33415fb11ebd0c0df769b700645627770/D2AP%20PICCCCCCC.png))
 ### 🛣 [Project Name]
 Description: Used AutoCAD to design a sustainable highway layout, incorporating eco-friendly materials and stormwater management systems.
 <img src="https://project-image-url-here.com" alt="Project Image" width="400"/>
