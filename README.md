@@ -8,9 +8,13 @@
 ravirdr/ravirdr is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 #  Hi there! 👋 I'm Ravinandan, a transport planning and engineering graduate interested in Transport modelling.
 I have a Master's in Transport Planning and Engineering from the University of Leeds, Institute of Transport Studies. My journey combines transportation engineering principles with data-driven insights and junction design assessments. For my master's thesis, I explored traffic signal junction designs and machine learning. I am passionate about transport feasibility studies and solving complex transportation challenges.
+
 I am skilled in traffic signal design, junction capacity analysis, and highway design. I analyse traffic patterns and create efficient transportation networks. I enjoy using data-driven and design approaches to solve complex transportation problems.
+
 I am looking for graduate transport planning roles where I can use my expertise in transportation engineering and data analysis. I want to work on projects that improve urban mobility and transportation efficiency.
+
 Let's connect and work together to shape the future of transportation!
+
 I hope you have a lovely day!
 
 
