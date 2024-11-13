@@ -22,7 +22,7 @@ I'm a Transport Planning and Engineering graduate with a strong foundation in Au
 ### 🚦 [Project Name]
 Description: Developed a comprehensive traffic signal plan using Linsig, which improved traffic flow by 20% in a busy urban area.
 <img src="![convvvvv](https://github.com/user-attachments/assets/95af3977-6b23-43dc-8189-37fb9eb7e851)
-" alt="Project Image" width="400"/>
+" >
 
 ### 🛣 [Project Name]
 Description: Used AutoCAD to design a sustainable highway layout, incorporating eco-friendly materials and stormwater management systems.
