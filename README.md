@@ -9,7 +9,10 @@ Let's connect and work together to shape the future of transportation!
 
 I hope you have a lovely day!
 
+<img align="right" alt="Coding" width="200" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExd2hkYWlkZ2Z1anI5dHpha2xzNmpsY2J1djYxZzJ2Z3V1MnNsY3R6aCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/VypvfVlTj0j6nNuRn8/giphy.gif">
+
 [![LinkedIn Connect](https://img.shields.io/badge/%20-Connect-black?color=545B60&labelColor=0e76a8&logo=linkedin&logoColor=f5f7fe)](https://www.linkedin.com/in/ravinandanrajegowda96/)
+
 
 ## 🛠 **Some Tools I Have Used and Learned**  
 ![arcady](https://github.com/user-attachments/assets/b6e1395d-33a8-450f-8098-52f39b9fbec4)
