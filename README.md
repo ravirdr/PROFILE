@@ -11,7 +11,7 @@ I hope you have a lovely day!
 
 [![LinkedIn Connect](https://img.shields.io/badge/%20-Connect-black?color=545B60&labelColor=0e76a8&logo=linkedin&logoColor=f5f7fe)](https://www.linkedin.com/in/ravinandanrajegowda96/)
 
-## 🛠 **Languages and Tools:**  
+## 🛠 **Languages and Tools used and learnt**  
 ![arcady](https://github.com/user-attachments/assets/b6e1395d-33a8-450f-8098-52f39b9fbec4)
 ![cad](https://github.com/user-attachments/assets/665f3aed-f180-4930-b591-a48309846ac0)
 ![civil](https://github.com/user-attachments/assets/8b468a07-5317-4f0e-ab75-0e2a703055f2)
@@ -23,6 +23,9 @@ I hope you have a lovely day!
 ![spss](https://github.com/user-attachments/assets/d46eae77-f182-4a39-93e3-539e8b3aebed)
 ![c](https://github.com/user-attachments/assets/a4571085-fd66-4db1-87de-4c257a659659)
 
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+</p>
 
 
 ## 📚 Projects
