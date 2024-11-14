@@ -9,6 +9,7 @@ Let's connect and work together to shape the future of transportation!
 
 I hope you have a lovely day!
 
+[![LinkedIn Connect](https://img.shields.io/badge/%20-Connect-black?color=545B60&labelColor=0e76a8&logo=linkedin&logoColor=f5f7fe)](https://www.linkedin.com/in/ravinandanrajegowda96/)
 
 <img src="https://your-image-url-here.com" alt="Profile Image" width="200"/>
 
