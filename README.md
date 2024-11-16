@@ -9,20 +9,17 @@ Let's connect and work together to shape the future of transportation!
 
 I hope you have a lovely day!
 
-### Connect me with:
+### 🔗Connect me with:
 [![LinkedIn Connect](https://img.shields.io/badge/%20-Connect-black?color=545B60&labelColor=0e76a8&logo=linkedin&logoColor=f5f7fe)](https://www.linkedin.com/in/ravinandanrajegowda96/)
 
+### 📧 Contact
+Email: drravinandu060@gmail.com
+
 ### My Motives:
-<img align="centre" alt="Coding" width="200" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExd2hkYWlkZ2Z1anI5dHpha2xzNmpsY2J1djYxZzJ2Z3V1MnNsY3R6aCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/VypvfVlTj0j6nNuRn8/giphy.gif">
+<img align="centre" alt="Coding" width="200" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExd2hkYWlkZ2Z1anI5dHpha2xzNmpsY2J1djYxZzJ2Z3V1MnNsY3R6aCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/VypvfVlTj0j6nNuRn8/giphy.gif"><img align="centre" alt="Coding" width="200" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExZDBxMnhpd3Fqcnh4NWh3M2x2b2ttZG1oajFsZDF1NGdpajViaWcwOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qQGiagc4eBjaPQylg3/giphy.gif"><img align="centre" alt="Coding" width="200" height="200"  src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ2p4ZjV1aTN4c2l4cG95MGdnOGt2c2hyYWpnMW8zeHJ1MXVzeTJ5NSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/1PzFRNXmLyRY08qwjA/giphy.gif"><img align="centre" alt="Coding" width="200" height="200"  src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExY3MzZDloNTd1cHJmMTdxYXh1eDhrZXZzN2JjbDVwa2N6b3R2eHBwYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/YO5I0p2gxFbBqzJx8V/giphy.gif">
 
 
-
-
-
-
-<img align="centre" alt="Coding" width="200" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExdzN1ZzNqenp0bWNhcDNtODNybXF1ZTJoa3c4M2ljeTIzYzlobTc5cCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/yVlraQ5VB2SfMIOrU3/giphy.gif">
-
-### 🛠 **Some Tools I Have Used and Learned**  
+### 🛠 📈Some Tools I Have Used and Learned**  
 ![arcady](https://github.com/user-attachments/assets/b6e1395d-33a8-450f-8098-52f39b9fbec4)
 ![cad](https://github.com/user-attachments/assets/665f3aed-f180-4930-b591-a48309846ac0)
 ![civil](https://github.com/user-attachments/assets/8b468a07-5317-4f0e-ab75-0e2a703055f2)
@@ -47,12 +44,3 @@ Description: Developed a comprehensive traffic signal plan using Linsig, which i
 Description: Used AutoCAD to design a sustainable highway layout, incorporating eco-friendly materials and stormwater management systems.
 <img src="https://project-image-url-here.com" alt="Project Image" width="400"/>
 
-## 📈 Statistics
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=dracula)
-
-## 🔗 Connect with Me
-- [LinkedIn](https://www.linkedin.com/in/your-profile/)
-- [Portfolio](https://your-portfolio-url.com)
-
-## 📧 Contact
-Email: your-email@example.com
