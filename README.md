@@ -1,4 +1,4 @@
-#  Hi there! 👋 I'm Ravinandan, a transport planning and engineering graduate interested in Transport modelling.
+### Hi there! 👋 I'm Ravinandan, a transport planning and engineering graduate interested in Transport modelling.
 I have a Master's in Transport Planning and Engineering from the University of Leeds, Institute of Transport Studies. My journey combines transportation engineering principles with data-driven insights and junction design assessments. For my master's thesis, I explored traffic signal junction designs and machine learning. I am passionate about transport feasibility studies and solving complex transportation challenges.
 
 I am skilled in traffic signal design, junction capacity analysis, and highway design. I analyse traffic patterns and create efficient transportation networks. I enjoy using data-driven and design approaches to solve complex transportation problems.
@@ -9,25 +9,12 @@ Let's connect and work together to shape the future of transportation!
 
 I hope you have a lovely day!
 
-<img align="right" alt="Coding" width="200" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExd2hkYWlkZ2Z1anI5dHpha2xzNmpsY2J1djYxZzJ2Z3V1MnNsY3R6aCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/VypvfVlTj0j6nNuRn8/giphy.gif">
-
 [![LinkedIn Connect](https://img.shields.io/badge/%20-Connect-black?color=545B60&labelColor=0e76a8&logo=linkedin&logoColor=f5f7fe)](https://www.linkedin.com/in/ravinandanrajegowda96/)
 
+<img align="centre" alt="Coding" width="200" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExd2hkYWlkZ2Z1anI5dHpha2xzNmpsY2J1djYxZzJ2Z3V1MnNsY3R6aCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/VypvfVlTj0j6nNuRn8/giphy.gif">
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-## 🛠 **Some Tools I Have Used and Learned**  
+### 🛠 **Some Tools I Have Used and Learned**  
 ![arcady](https://github.com/user-attachments/assets/b6e1395d-33a8-450f-8098-52f39b9fbec4)
 ![cad](https://github.com/user-attachments/assets/665f3aed-f180-4930-b591-a48309846ac0)
 ![civil](https://github.com/user-attachments/assets/8b468a07-5317-4f0e-ab75-0e2a703055f2)
