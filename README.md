@@ -1,4 +1,4 @@
-### Hi there! 👋 I'm Ravinandan, a transport planning and engineering graduate interested in Transport modelling.
+### Hi there! 👋 I'm Ravinandan, a Transport planning and engineering graduate interested in Transport Planning/Transport modelling.
 I have a Master's in Transport Planning and Engineering from the University of Leeds, Institute of Transport Studies. My journey combines transportation engineering principles with data-driven insights and junction design assessments. For my master's thesis, I explored traffic signal junction designs and machine learning. I am passionate about transport feasibility studies and solving complex transportation challenges.
 
 I am skilled in traffic signal design, junction capacity analysis, and highway design. I analyse traffic patterns and create efficient transportation networks. I enjoy using data-driven and design approaches to solve complex transportation problems.
@@ -18,7 +18,6 @@ Email: drravinandu060@gmail.com
 ### My Motives:
 <img align="centre" alt="Coding" width="200" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExd2hkYWlkZ2Z1anI5dHpha2xzNmpsY2J1djYxZzJ2Z3V1MnNsY3R6aCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/VypvfVlTj0j6nNuRn8/giphy.gif"><img align="centre" alt="Coding" width="200" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExZDBxMnhpd3Fqcnh4NWh3M2x2b2ttZG1oajFsZDF1NGdpajViaWcwOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qQGiagc4eBjaPQylg3/giphy.gif"><img align="centre" alt="Coding" width="200" height="200"  src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ2p4ZjV1aTN4c2l4cG95MGdnOGt2c2hyYWpnMW8zeHJ1MXVzeTJ5NSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/1PzFRNXmLyRY08qwjA/giphy.gif"><img align="centre" alt="Coding" width="200" height="200"  src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExY3MzZDloNTd1cHJmMTdxYXh1eDhrZXZzN2JjbDVwa2N6b3R2eHBwYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/YO5I0p2gxFbBqzJx8V/giphy.gif">
 
-
 ### 🛠 📈Some Tools I Have Used and Learned**  
 ![arcady](https://github.com/user-attachments/assets/b6e1395d-33a8-450f-8098-52f39b9fbec4)
 ![cad](https://github.com/user-attachments/assets/665f3aed-f180-4930-b591-a48309846ac0)
@@ -35,12 +34,6 @@ Email: drravinandu060@gmail.com
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
 </p>
 
-
-## 📚 Projects
-### 🚦 [Project Name]
-Description: Developed a comprehensive traffic signal plan using Linsig, which improved traffic flow by 20% in a busy urban area.
-![Imge Alt]([images/example.png](https://github.com/ravirdr/ravidr/blob/efa291e33415fb11ebd0c0df769b700645627770/D2AP%20PICCCCCCC.png))
-### 🛣 [Project Name]
-Description: Used AutoCAD to design a sustainable highway layout, incorporating eco-friendly materials and stormwater management systems.
-<img src="https://project-image-url-here.com" alt="Project Image" width="400"/>
+### 🚦 Projects
+###  [Project Name]
 
